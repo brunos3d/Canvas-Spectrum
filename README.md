@@ -4,7 +4,7 @@
 ### Como utilizar?
 Basta entrar no link que aparece a seguir:
 
- https://brunos3d.github.io/Canvas-Spectrum/
+https://brunos3d.github.io/Canvas-Spectrum/
 
 Em seguida clique no botão `play` da barra de controle de áudio
 
