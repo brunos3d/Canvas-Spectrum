@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, sans-serif;
+}
+
+body {
+	background-color: #000;
+}
+
+.main-container {
+	margin: 0 auto;
+	max-width: 1000px;
+}
+
+.content {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.score-content {
+	width: 300px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+#canvas-board {
+	/* border: 1px solid #fff; */
+	image-rendering: pixelated;
+}
+
+#audio-control {
+	margin: 20px 0;
+}
